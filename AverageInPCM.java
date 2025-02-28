@@ -9,7 +9,7 @@ public class AverageInPCM{
       // Create a variable physicsMarks to show the Sam's marks in physics out of 100       
       int physicsMarks = 95;
 
-      // Create a variable chemistryMarks tio show the Sam's marks in chemistry out or 100
+      // Create a variable chemistryMarks tio show the Sam's marks in chemistry out of 100
       int chemistryMarks = 96;
 
        // Create a variable averageMark to calculate average marks of Sam in PCM
